@@ -15,7 +15,7 @@ function App() {
       <header className="App-header">
         <LabasZuikis />
         <GaunaPropa pasilabinimas='Labas'/>
-        <ZebraiIrBebrai tikVienasArbaDu={1}/>
+        <ZebraiIrBebrai tikVienasArbaDu={12}/>
         <GaunaDuPropsus pasilabinimas='Sveiki' strong='!'/>
         <GaunaTrisPropsus pasilabinimas='Hi there' strong='!!!' spalva='orange'/>
         <h3></h3>
